@@ -227,7 +227,6 @@ style: |
 
 
 
-
 ---
 
 
@@ -375,6 +374,23 @@ style: |
 ---
 
 <style scoped>
+    img{
+        position: absolute;
+        top: 100px; /* 调整图片距离顶部的位置 */
+        left: 15px; /* 调整图片距离左侧的位置 */
+        width:1250px;
+    }
+
+
+</style>
+
+<!--_paginate: true -->
+
+![img](./asset/G00.png)
+
+---
+
+<style scoped>
 
 
 
@@ -435,7 +451,7 @@ style: |
 <!-- _header: . -->
 <!--_paginate: true -->
 
-# 探测优势
+# 探测技术对比
 
 ![img w:1200](./asset/55.png)
 
@@ -510,17 +526,24 @@ style: |
 <style scoped>
     img{
         position: absolute;
-        top: 380px; /* 调整图片距离顶部的位置 */
+        top: 320px; /* 调整图片距离顶部的位置 */
         left: 60px; /* 调整图片距离左侧的位置 */
         width:1200px;
     }
+     h2{
+        position: absolute;
+        left: 140px;
+        top: 180px;
+        font-size:48px; /* 字体大小 */
+    }
+
 
 </style>
 <!-- _header: . -->
 <!--_paginate: true -->
 
 # HD 209458b
-* 然而
+## Is there NaI in the atmosphere of HD 209458b?
 * ![img](./asset/HD04.png)
 
 ---
@@ -585,20 +608,32 @@ $$ESI = \prod_{i=1}^{n} \left(1 - \frac{|x_i - x_{i0}|}{|x_i + x_{i0}|}\right)^{
 ---
 
 <style scoped>
-
+    h4 {
+        text-align: left;
+        font-size: 20px;
+        margin-bottom:5px;
+        margin-top:5px;
+    }
 
 </style>
 <!-- _header: . -->
 
 
 # 参考文献
-1. Schulze-Makuch, D. et al. A Two-Tiered Approach to Assessing the Habitability of Exoplanets. Astrobiology 11, 1041–1052 (2011).
-2. Kreidberg, L. et al. Clouds in the atmosphere of the super-Earth exoplanet GJ 1214b. Nature 505, 69–72 (2014).
-3. Charbonneau, D., Brown, T. M., Latham, D. W. & Mayor, M. Detection of Planetary Transits Across a Sun-like Star. Preprint at https://doi.org/10.1086/312457 (1999).
-4. Jagadeesh, M. K. Earth Similarity Index and Habitability Studies of Exoplanets. Preprint at http://arxiv.org/abs/1801.07101 (2018).
-5. Casasayas-Barris, N. et al. Is there NaI in the atmosphere of HD 209458b? Effect of the centre-to-limb variation and Rossiter-McLaughlin effect in transmission spectroscopy studies. A&A 635, A206 (2020).
-6. Narita, N. et al. Subaru HDS Transmission Spectroscopy of the Transiting Extrasolar Planet HD 209458b. Publications of the Astronomical Society of Japan 57, 471–480 (2005).
-
+## 
+##
+##
+####
+#### 1. Schulze-Makuch, D. et al. A Two-Tiered Approach to Assessing the Habitability of Exoplanets. Astrobiology 11, 1041–1052 (2011).
+#### 2. Kreidberg, L. et al. Clouds in the atmosphere of the super-Earth exoplanet GJ 1214b. Nature 505, 69–72 (2014).
+#### 3. Charbonneau, D., Brown, T. M., Latham, D. W. & Mayor, M. Detection of Planetary Transits Across a Sun-like Star. Preprint at https://doi.org/10.1086/312457 (1999).
+#### 4. Jagadeesh, M. K. Earth Similarity Index and Habitability Studies of Exoplanets. Preprint at http://arxiv.org/abs/1801.07101 (2018).
+#### 5. Casasayas-Barris, N. et al. Is there NaI in the atmosphere of HD 209458b? Effect of the centre-to-limb variation and Rossiter-McLaughlin effect in transmission spectroscopy studies. A&A 635, A206 (2020).
+#### 6. Narita, N. et al. Subaru HDS Transmission Spectroscopy of the Transiting Extrasolar Planet HD 209458b. Publications of the Astronomical Society of Japan 57, 471–480 (2005).
+#### 7.Wolszczan, A., Frail, D. A planetary system around the millisecond pulsar PSR1257 + 12. Nature 355, 145–147 (1992). https://doi.org/10.1038/355145a0
+#### 8.王佳琪,王汇娟,王炜,等.太阳系外行星探测研究进展[J].天文学进展, 2021.DOI:10.3969/j.issn.1000-8349.2021.01.01. 
+#### 9.LAMOST简报2020年第9期
+#### 10.Wambsganss, J. Bound and unbound planets abound. Nature 473, 289–291 (2011). https://doi.org/10.1038/473289a
 
 
 
