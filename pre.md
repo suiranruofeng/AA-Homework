@@ -114,7 +114,7 @@ style: |
 
 #### 1.找星星
 #### 2.HD 209458b
-#### 3.水云
+#### 3.GJ 1214b
 #### 4.ESI
 
 ---
@@ -526,15 +526,15 @@ style: |
 <style scoped>
     img{
         position: absolute;
-        top: 320px; /* 调整图片距离顶部的位置 */
-        left: 60px; /* 调整图片距离左侧的位置 */
-        width:1200px;
+        top: 250px; /* 调整图片距离顶部的位置 */
+        left: 100px; /* 调整图片距离左侧的位置 */
+        width:1100px;
     }
      h2{
         position: absolute;
-        left: 140px;
-        top: 180px;
-        font-size:48px; /* 字体大小 */
+        left: 260px;
+        top: 170px;
+        font-size:36px; /* 字体大小 */
     }
 
 
@@ -548,6 +548,48 @@ style: |
 
 ---
 
+<style scoped>
+    img{
+        position: absolute;
+        top: 180px; /* 调整图片距离顶部的位置 */
+        left: 220px; /* 调整图片距离左侧的位置 */
+        width:360px;
+    }
+
+
+</style>
+<!-- _header: . -->
+<!--_paginate: true -->
+
+# RM&CLV effects 
+
+![img](./asset/Animation_of_the_Rossiter-Mclaughlin_(RM)_effect.gif)
+
+![bg top:50% right:45% w:400](./asset/CLV.png)
+
+---
+
+<style scoped>
+    img{
+        position: absolute;
+        top: 220px; /* 调整图片距离顶部的位置 */
+        left: 90px; /* 调整图片距离左侧的位置 */
+        width:1100px;
+    }
+
+</style>
+<!-- _header: . -->
+<!--_paginate: true -->
+
+# GJ 1214b
+
+## 在超级地球GJ 1214b上，有研究发现了其存在水云，他们是如何确认上面有水云的？大望远镜＋高分辨率的光谱在这方面的研究中发挥了什么样的作用？
+
+
+
+
+---
+
 
 <style scoped>
 
@@ -555,11 +597,41 @@ style: |
 <!-- _header: . -->
 <!--_paginate: true -->
 
-# 水云
+# GJ 1214b
+
+![bg right:55% w:700](./asset/cloud.png)
+
+芝加哥大学的Laura Kreidberg, Jacob L. Bean等人的研究排除了GJ 1214b的无云大气模型，并提出这颗行星的大气层必须包含云，才能与数据一致。
 
 
 ---
 
+<style scoped>
+    img{
+        position: absolute;
+        top: 220px; /* 调整图片距离顶部的位置 */
+        left: 90px; /* 调整图片距离左侧的位置 */
+        width:1100px;
+    }
+    h3{
+        position: absolute;
+        left: 400px;
+        bottom: 30px;
+        font-size:36px; /* 字体大小 */
+    }
+
+</style>
+<!-- _header: . -->
+<!--_paginate: true -->
+
+# GJ 1214b
+
+![img](./asset/cloud-water.jpeg)
+
+
+### 从哈勃(2014)到詹姆斯韦伯(2023)
+
+---
 
 <style scoped>
     img{
@@ -601,7 +673,7 @@ $$ESI = \prod_{i=1}^{n} \left(1 - \frac{|x_i - x_{i0}|}{|x_i + x_{i0}|}\right)^{
 
 # ESI
 
-* 47 个半径大于 100 公里的太阳系天体（红色圆圈）和 258 个太阳系外行星（蓝色方块）的地球相似性指数 
+* 47 个半径大于 100 公里的太阳系天体（红色圆圈）和 258 个太阳系外行星（蓝色方块）的地球相似性指数
 
 ![bg right:60% w:770](./asset/ES00.png)
 
@@ -610,30 +682,52 @@ $$ESI = \prod_{i=1}^{n} \left(1 - \frac{|x_i - x_{i0}|}{|x_i + x_{i0}|}\right)^{
 <style scoped>
     h4 {
         text-align: left;
-        font-size: 20px;
+        font-size: 27px;
         margin-bottom:5px;
         margin-top:5px;
     }
 
 </style>
 <!-- _header: . -->
-
+<!--_paginate: true -->
 
 # 参考文献
+
 ## 
 ##
 ##
-####
 #### 1. Schulze-Makuch, D. et al. A Two-Tiered Approach to Assessing the Habitability of Exoplanets. Astrobiology 11, 1041–1052 (2011).
 #### 2. Kreidberg, L. et al. Clouds in the atmosphere of the super-Earth exoplanet GJ 1214b. Nature 505, 69–72 (2014).
 #### 3. Charbonneau, D., Brown, T. M., Latham, D. W. & Mayor, M. Detection of Planetary Transits Across a Sun-like Star. Preprint at https://doi.org/10.1086/312457 (1999).
 #### 4. Jagadeesh, M. K. Earth Similarity Index and Habitability Studies of Exoplanets. Preprint at http://arxiv.org/abs/1801.07101 (2018).
 #### 5. Casasayas-Barris, N. et al. Is there NaI in the atmosphere of HD 209458b? Effect of the centre-to-limb variation and Rossiter-McLaughlin effect in transmission spectroscopy studies. A&A 635, A206 (2020).
 #### 6. Narita, N. et al. Subaru HDS Transmission Spectroscopy of the Transiting Extrasolar Planet HD 209458b. Publications of the Astronomical Society of Japan 57, 471–480 (2005).
+
+---
+<style scoped>
+    h4 {
+        text-align: left;
+        font-size: 27px;
+        margin-bottom:5px;
+        margin-top:5px;
+    }
+
+</style>
+<!-- _header: . -->
+<!--_paginate: true -->
+
+# 参考文献
+
+##
+##
+##
+####
 #### 7.Wolszczan, A., Frail, D. A planetary system around the millisecond pulsar PSR1257 + 12. Nature 355, 145–147 (1992). https://doi.org/10.1038/355145a0
-#### 8.王佳琪,王汇娟,王炜,等.太阳系外行星探测研究进展[J].天文学进展, 2021.DOI:10.3969/j.issn.1000-8349.2021.01.01. 
+#### 8.王佳琪,王汇娟等.太阳系外行星探测研究进展[J].天文学进展,2021.DOI:10.3969/j.issn.1000-8349.2021.01.01. 
 #### 9.LAMOST简报2020年第9期
 #### 10.Wambsganss, J. Bound and unbound planets abound. Nature 473, 289–291 (2011). https://doi.org/10.1038/473289a
+#### 11.Effect of the stellar absorption line centre-to-limb variation on exoplanet transmission spectrum observationsF. Yan, E. Pallé, R. A. E. Fosbury, M. G. Petr-Gotzens and Th. HenningA&A, 603 (2017) A73,DOI: https://doi.org/10.1051/0004-6361/201630144
+#### 12.Kempton, E.MR., Zhang, M., Bean, J.L. et al. A reflective, metal-rich atmosphere for GJ 1214b from its JWST phase curve. Nature 620, 67–71 (2023). https://doi.org/10.1038/s41586-023-06159-5
 
 
 
