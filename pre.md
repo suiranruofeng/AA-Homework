@@ -401,9 +401,11 @@ style: |
 
 # 直接照相法
 
-![bg right:60% w:700](./asset/DImage.jpg)
+![bg right:60% w:700](./asset/DI.webp)
 
 右图为第一个证实的直接照相法发现的行星，母星是褐矮星2M1207
+
+是欧洲南天天文台观测团队在2004年9月于智利使用帕瑞纳天文台的 Very Large Telescope (VLT)🔭发现的
 
 
 ---
